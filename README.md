@@ -1,8 +1,10 @@
-# BetterCompass
+# BetterCompass Archive
+This is an archive of @Troplo 's BetterCompass which is no longer maintained, luckily I managed to save the source code before it got archived on github. Have a great rest of your day!
 
-[![BetterCompass Actions Status](https://github.com/Troplo/BetterCompass/workflows/build/badge.svg)](https://github.com/Troplo/BetterCompass/actions)
+## Original README.md...
+
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Troplo_BetterCompass&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Troplo_BetterCompass)
-![Wakatime](https://wakatime.troplo.com/api/badge/Troplo/interval:any/project:BetterCompass?label=wakatime)
+
 
 BetterCompass is a frontend for
 [JDLF's compass.education](http://compass.education/) written in Vue 2 and
@@ -12,11 +14,6 @@ The normal Compass frontend has a variety of issues, being made over a decade
 ago with a growing inconsistent design as it is being updated, it is very slow,
 the mobile app for students is horrible and buggy (at least on Android) which
 lacks features, the website isn't responsive, and feels very neglected overall.
-
-A public instance of BetterCompass can be found at
-[https://compass.troplo.com](https://compass.troplo.com), which is constantly
-kept up to date, and is recommended to be used if you don't want to self host
-your own instance.
 
 BetterCompass may have missing features that are out of scope, this is likely
 because I do not have full access to the Compass platform, and feature
